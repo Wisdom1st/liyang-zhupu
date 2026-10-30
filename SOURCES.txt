@@ -23,3 +23,8 @@
 
 【钢笔】第 16 页只用 USDA 1935 公有领域钢笔线图（见 pen_usda1935_tecta_p32.jpg 条），自制矢量示意已删除。雨竹全图：未找到。
 pen_usda1935_tecta_p32.jpg —（课件第 16 页，印刷的植物学钢笔线图，整株：地下茎、竹笋、叶枝）A. S. Hitchcock, Manual of the Grasses of the United States, USDA Misc. Publ. 200, 1935, p.32 Fig.3 Arundinaria tecta；公有领域（17 U.S.C. §105）；https://archive.org/details/manualofgrasseso200hitc ；从 2638×4285 整页等比缩到 1400 高，没有裁切或调色
+pen_usda1935_tecta_p32.jpg —（课件第 16 页，印刷的植物学钢笔线图，整株：地下茎、竹笋、叶枝）A. S. Hitchcock, Manual of the Grasses of the United States, USDA Misc. Publ. 200, 1935, p.32 Fig.3 Arundinaria tecta；公有领域（17 U.S.C. §105）；https://archive.org/details/manualofgrasseso200hitc ；从 2638×4285 整页等比缩到 1400 高，没有裁切或调色
+
+【2026-10-30 18:50 按用户决定换回国图 1701 刻本（带“国图”水印）】
+  课件现用 nlc1701_p02/05/08/11/12/13/15/16/17/22/27/29/30/34/40；新增 p29《新篁解箨》、p34《柔枝带雨》（课件题名仍按原稿，待批准）、p40《迎风取势》，均从上述 NLC PDF 150dpi 整页渲染，等比缩至最长边 1300px，未裁切、未改色。
+  ndl_* 和刻本图不再使用（文件保留备查）。
